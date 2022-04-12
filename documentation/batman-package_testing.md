@@ -12,3 +12,4 @@ https://lweb.cfa.harvard.edu/~lkreidberg/batman/tutorial.html
 ### Effects of limb darkening methods
 Limb darkening overview uses the values for c1 and c2 found in the link at the top of this document.
 
+It turns the transit from a rectangle to a parabolic shape depending on the method used.
