@@ -20,4 +20,5 @@ Together with looking into these emission spectra, start working with Pandexo si
 
 ### Week 2 results
 On monday, the Pandexo python package was finally finished.
+Start generating eclipse depth profiles. For isothermal planet with T=500 -> T=3000 in steps of 500. Generate the same ones for NIRSpec, T planet has same steps, every NIRSpec instrument has been used.
 
