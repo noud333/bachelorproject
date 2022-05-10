@@ -1,1 +1,2 @@
 batman-package==2.4.8
+numpy==1.22.3
